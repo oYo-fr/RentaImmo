@@ -1,0 +1,73 @@
+Adresse: Bordeaux
+Meublé: false
+NomAgenceImmobilière: L' AGENCE DE BORDEAUX
+AgenceAEmail: true
+AgenceId: 173350
+AgenceImage: https://v.seloger.com/s/width/150/logos/0/m/1/o/0m1olwjuem57q83hofv7bglo0cl60zaqhdq5rl0cg.jpg
+AgenceLien: http://agence-bordeaux.fr/
+AgencePage: https://www.seloger.com/professionnels/agences-immobilieres/bordeaux-33000/agence-9028/
+AgenceTelephone: 06 99 97 85 86
+Id: seloger_218847047
+Aire: 170.01281503630926
+UnitéBusiness: 1
+Quartier: null
+TypeDeBien: Appartement
+TypeDeBienId: 1
+PrixMensuel: 4421
+Nature: 1
+Photos:
+  - https://v.seloger.com/s/crop/341x256/visuels/0/s/b/a/0sbavvw04dh51z7yrsf7xrzotx445hfmxdmj3r61g.jpg
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/1/6/w/8/16w8yfkhb8lm8vi9io1bxo\
+    bs7s9zymkw6ffctr9lg.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/f/r/c/0frcpvaiqzri9oe2adacgd\
+    0cpzgcmn56bp617bqkz.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/e/m/9/0em9pbmduz6buojznlucl4\
+    gidfqirovm2eob9obpw.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/5/2/x/052xafy8ny1lgnqcku2mua\
+    wvmqw6g5wo8n0zeibtg.jpg"
+Position: null
+CodePostal: "33000"
+Prix: 796000
+PrixAuMetreCarré: 4682
+PricingPriceNote: null
+IdPublication: "30173350"
+DiagnostiqueEnergetique: null
+ConsommationElectrique: null
+Ges: null
+EmissionsGaz: null
+Commodités: null
+NombreDePieces: 4
+NombreDeChambres: 0
+Titre: null
+Description: null
+DescriptionCourte: >-
+  Appartement de luxe à vendre - L'agence de Bordeaux vous présente à la vente
+  ce superbe appartement d'environ 170 m2, dans une résidence de standing
+  sécurisée, situé au coeur du quartier Saint Genès à deux pas des écoles,
+  collèges et lycées réputés du quartier.
+
+  Une fois passée la grande entrée, vous disposez d'un spacieux salon/salle à
+  manger [...]
+Tags:
+  - 4 pièces
+  - " 3 chambres"
+  - " 170 m²"
+  - " Étage 1/0"
+  - " Box"
+  - " Ascenseur"
+TypeDeTransaction: 8
+Url: https://www.seloger.com/annonces/achat-de-prestige/appartement/bordeaux-33/218847047.htm
+PhotoUrl: null
+VideoUrl: null
+UrlVisiteVistuelle: null
+Latitude: null
+Longitude: null
+ChargesCopropriétéAnnuelles: null
+NombreDeLotsCopropriété: null
+CopropriétéSousControleDUnSyndic: null
+ContactEmail: true
+ContactEstUnParticulier: false

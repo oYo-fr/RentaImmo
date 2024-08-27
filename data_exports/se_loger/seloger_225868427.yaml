@@ -1,0 +1,71 @@
+Adresse: Bordeaux
+Meublé: false
+NomAgenceImmobilière: Human Immobilier Bordeaux Chartrons
+AgenceAEmail: true
+AgenceId: 47375
+AgenceImage: https://v.seloger.com/s/width/150/logos/0/b/8/8/0b88ub61dmwo53c3xb4z0sx28dr62og9s1tsy53qw.jpg
+AgenceLien: https://www.human-immobilier.fr/Bordeaux-Chartrons
+AgencePage: https://www.seloger.com/professionnels/agences-immobilieres/bordeaux-33000/agence-22343/
+AgenceTelephone: 05 56 00 28 88
+Id: seloger_225868427
+Aire: 56.00483229107447
+UnitéBusiness: 1
+Quartier: Le Lac-Bacalan
+TypeDeBien: Appartement
+TypeDeBienId: 1
+PrixMensuel: 1103
+Nature: 1
+Photos:
+  - https://v.seloger.com/s/crop/341x256/visuels/0/k/b/7/0kb7fb26u7ooz118s46pi094dgcgah3v25qcht5pc.jpg
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/2/9/f/n/29fn3mpsjprnzn0qn1j1vz\
+    uhptp4yui1iy0htr868.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/1/i/s/q/1isqswny3vpflqzl48z7hh\
+    qyotv82urneluoa1puo.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/4/f/d/04fdviwtv06bv31z5opxme\
+    jdam37woyretqd1wk68.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/1/r/b/p/1rbpy7p5v40mqc4sfduv8u\
+    u56sjb5qkj6jeor49b4.jpg"
+Position: null
+CodePostal: "33300"
+Prix: 197025
+PrixAuMetreCarré: 3518
+PricingPriceNote: null
+IdPublication: "30047375"
+DiagnostiqueEnergetique: null
+ConsommationElectrique: null
+Ges: null
+EmissionsGaz: null
+Commodités: null
+NombreDePieces: 3
+NombreDeChambres: 0
+Titre: null
+Description: null
+DescriptionCourte: Appartement à vendre - Appartement T2 bis sur le secteur
+  Haussmann au 2ème étage avec ascenseur. Très bien entretenu. Il se compose
+  d'une pièce de vie avec cuisine ouverte, une chambre avec placard, un bureau,
+  une salle d'eau et wc séparés. Un balcon avec vue dégagée et une place de
+  parking. Appartement vendu loué
+Tags:
+  - 3 pièces
+  - " 1 chambre"
+  - " 56 m²"
+  - " Étage 2/4"
+  - " Balcon"
+  - " Parking"
+  - " Ascenseur"
+TypeDeTransaction: 2
+Url: https://www.seloger.com/annonces/achat/appartement/bordeaux-33/le-lac-bacalan/225868427.htm
+PhotoUrl: null
+VideoUrl: null
+UrlVisiteVistuelle: null
+Latitude: null
+Longitude: null
+ChargesCopropriétéAnnuelles: null
+NombreDeLotsCopropriété: null
+CopropriétéSousControleDUnSyndic: null
+ContactEmail: true
+ContactEstUnParticulier: false

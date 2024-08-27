@@ -1,0 +1,74 @@
+Adresse: Bordeaux
+Meublé: false
+NomAgenceImmobilière: un particulier
+AgenceAEmail: true
+AgenceId: 235420
+AgenceImage: null
+AgenceLien: null
+AgencePage: https://www.seloger.com/professionnels/agences-immobilieres/paris-18eme-arrondissement-75018/agence-71211/
+AgenceTelephone: null
+Id: seloger_225005941
+Aire: 42.99775513728199
+UnitéBusiness: 1
+Quartier: Le Lac-Bacalan
+TypeDeBien: Appartement
+TypeDeBienId: 1
+PrixMensuel: 1391
+Nature: 1
+Photos:
+  - https://v.seloger.com/s/crop/341x256/visuels/1/2/6/e/126edw52g4sf6zc6eq7q216nzdak6psj90cu1u3ds.jpg
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/d/b/a/0dbaty6u92ioxjylnqdrms\
+    2xfg8qhuqhky571gzeg.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/0/a/8/00a8t30ixuhpb2lmrddbyj\
+    g8zi6oklq2yjlvfc68w.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/5/4/s/054s39i1c24jsmtpc91qg5\
+    cdr4vkk6sdff6w50crk.jpg"
+  - "
+    https://v.seloger.com/s/crop/341x256/visuels/0/b/o/f/0bofmxnfl8emnk7zdbbsqw\
+    po1yagrgwndzj1f4880.jpg"
+Position: null
+CodePostal: "33300"
+Prix: 249000
+PrixAuMetreCarré: 5791
+PricingPriceNote: null
+IdPublication: "1051452"
+DiagnostiqueEnergetique: null
+ConsommationElectrique: null
+Ges: null
+EmissionsGaz: null
+Commodités: null
+NombreDePieces: 2
+NombreDeChambres: 0
+Titre: null
+Description: null
+DescriptionCourte: >-
+  Vente entre particuliers Appartement - A vendre au sein de la résidence le
+  CLOS MARGAUX, bel appartement au calme de type 2 pièces de 43 m2, une terrasse
+  de 7 m2, une place de parking extérieure de 12 m² et un local vélo.
+
+  Ce bien en parfait état se situe au quatrième et dernier étage avec ascenseur,
+  il comprend : un salon/séjour lumineux ouvrant [...]
+Tags:
+  - 2 pièces
+  - " 1 chambre"
+  - " 43 m²"
+  - " Étage 4/4"
+  - " Balcon"
+  - " Terrasse"
+  - " Parking"
+  - " Ascenseur"
+TypeDeTransaction: 2
+Url: https://www.seloger.com/annonces/achat/appartement/bordeaux-33/le-lac-bacalan/225005941.htm
+PhotoUrl: null
+VideoUrl: null
+UrlVisiteVistuelle: null
+Latitude: null
+Longitude: null
+ChargesCopropriétéAnnuelles: null
+NombreDeLotsCopropriété: null
+CopropriétéSousControleDUnSyndic: null
+ContactEmail: true
+ContactEstUnParticulier: true
